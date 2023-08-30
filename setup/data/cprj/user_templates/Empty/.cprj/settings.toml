@@ -1,4 +1,4 @@
-name = "CoolProject"
+name = "Empty"
 version = "0.0.1"
 build_command = "make -f .cprj/makefile"
 run_command = "make -f .cprj/makefile run"

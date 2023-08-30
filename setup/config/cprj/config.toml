@@ -1,0 +1,2 @@
+default = "repo2/Default"
+template_repos = ["repo1", "repo2", "repo3"]

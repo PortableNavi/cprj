@@ -10,6 +10,3 @@ $(target_name): $(src_files)
 .PHONY: run
 run:
 	./$(target_name)
-
-
-

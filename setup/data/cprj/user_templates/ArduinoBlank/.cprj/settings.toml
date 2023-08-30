@@ -1,0 +1,5 @@
+name="ArduinoBlank"
+version="uno"
+build_files=["makefile"]
+build_command="make -f .cprj/makefile compile"
+run_command="make -f .cprj/makefile upload"
