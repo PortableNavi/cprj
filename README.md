@@ -39,9 +39,9 @@ A simple project generation tool.
   cprj list_templates
   ```
   
-  Create a new Project called TestProject based on a template called "Empty":
+  Create a new Project called TestProject based on a template called "C":
   ```shell
-  cprj new --template=Empty TestProject
+  cprj new --template=C TestProject
   ```
   This will create a new folder called TestProject with the project inside it.
   To change the name or configuration, edit its settings file located inside the project folder
