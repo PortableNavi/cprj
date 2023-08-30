@@ -22,13 +22,13 @@ A simple project generation tool.
   > Note: To copy to ```/usr/bin``` you most likely need sudo privileges
   ```shell
   cargo build --release
-  cp target/release/cprj /usr/bin/cprj
+  cp target/release/cprj /usr/bin/
   ```
 
   As of now, you also need to create the config and data directory manually. Just copy their skeletons into the correct locations:
   ```shell
-  cp -r setup/data/cprj ~/.local/share/cprj
-  cp -r setup/config/cprj ~/.config/cprj
+  cp -r setup/data/cprj ~/.local/share/
+  cp -r setup/config/cprj ~/.config/
   ```
 
   That's it, you're done :)
