@@ -47,7 +47,7 @@ A simple project generation tool.
   To change the name or configuration, edit its settings file located inside the project folder
   at ```.cprj/settings.toml```. I recommend editing the name and version to match your naming and versioning conventions.
 
-  > Note: ```.cprj/``` is a hidden directory. Enable your file explorers settings to show hidden files if you cannot see it
+  > Note: ```.cprj/``` is a hidden directory. Enable your file explorers setting to show hidden files if you cannot see it
 
   To run or build your project, use these commands at the root of your project:
   ```shell
