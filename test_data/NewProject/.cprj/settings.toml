@@ -1,0 +1,6 @@
+name = "Empty"
+version = "0.0.1"
+build_command = "cd .. && make"
+run_command = "cd .. && make run"
+build_files = ["makefile"]
+

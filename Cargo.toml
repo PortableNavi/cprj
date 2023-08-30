@@ -1,0 +1,13 @@
+[package]
+name = "cprj"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+clap = { version = "4.3.22", features = ["derive"] }
+fs_extra = "1.3.0"
+serde = { version = "1.0.183", features = ["derive"] }
+thiserror = "1.0.47"
+toml = "0.7.6"
+toml_parse_from_file = {path="./toml_parse_from_file"}

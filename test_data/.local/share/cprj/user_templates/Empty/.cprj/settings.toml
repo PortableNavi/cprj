@@ -1,0 +1,6 @@
+name = "TestProject"
+version = "0.0.2"
+build_command = "make -f .cprj/makefile"
+run_command = "make -f .cprj/makefile run"
+build_files = ["makefile"]
+
